@@ -354,14 +354,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCVgeIzj6TgseOnQirWqkibg.m3u8
 #EXTINF:-1 tvg-name="Fatmagülün Suçu Ne" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_FatmagulunSucuNe" tvg-logo="https://i.ytimg.com/vi/B99h3vvUIyU/hqdefault.jpg" group-title="İçerik",Fatmagül'ün Suçu Ne
 https://ythls.kekikakademi.org/youtube/channel/UCmeIlUqcw49tOsE82LXz_zg.m3u8
 
-#EXTINF:-1 tvg-name="Kurtlar Vadisi" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_KurtlarVadisi" tvg-logo="https://i.ytimg.com/vi/9oRGmTcUhzA/hqdefault.jpg" group-title="İçerik",Kurtlar Vadisi
-https://ythls.kekikakademi.org/youtube/channel/UCABzirZ6FyebIf8YSptKMwQ.m3u8
-
 #EXTINF:-1 tvg-name="En Son Babalar Duyar" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_EnSonBabalarDuyar" tvg-logo="https://i.ytimg.com/vi/kXAUBBh_h_s/hqdefault.jpg" group-title="İçerik",En Son Babalar Duyar
 https://ythls.kekikakademi.org/youtube/channel/UC-vSQU6Ak0kyleh6OEcJSKw.m3u8
-
-#EXTINF:-1 tvg-name="Diamond Tema" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_DiamondTema" tvg-logo="https://i.ytimg.com/vi/2sIYwhCEpIU&t=2s/hqdefault.jpg" group-title="İçerik",Diamond Tema
-https://ythls.kekikakademi.org/youtube/channel/UCkEp_OUCCx-UU3A9-y62NiA.m3u8
 
 #EXTINF:-1 tvg-name="Mucize Doktor" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_MucizeDoktor" tvg-logo="https://i.ytimg.com/vi/scO6y9WgcFM/hqdefault.jpg" group-title="İçerik",Mucize Doktor
 https://ythls.kekikakademi.org/youtube/channel/UCWFSXbEYo0PmWWokRjHdSSQ.m3u8
@@ -387,12 +381,6 @@ https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
 #EXTINF:-1 tvg-name="Kurt Seyit ve Şura" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_KurtSeyitveSura" tvg-logo="https://i.ytimg.com/vi/K3KeDsU8DIQ/hqdefault.jpg" group-title="İçerik",Kurt Seyit ve Şura
 https://ythls.kekikakademi.org/youtube/channel/UC2C8NjaSAVrzDE4YvD9TIkw.m3u8
 
-#EXTINF:-1 tvg-name="Geniş Aile" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_GenisAile" tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/hqdefault.jpg" group-title="İçerik",Geniş Aile
-https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
-
-#EXTINF:-1 tvg-name="Kurt Seyit ve Şura" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_KurtSeyitveSura" tvg-logo="https://i.ytimg.com/vi/K3KeDsU8DIQ/hqdefault.jpg" group-title="İçerik",Kurt Seyit ve Şura
-https://ythls.kekikakademi.org/youtube/channel/UC2C8NjaSAVrzDE4YvD9TIkw.m3u8
-
 #EXTINF:-1 tvg-name="Bir Zamanlar Çukurova" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_BirZamanlarCukurova" tvg-logo="https://i.ytimg.com/vi/Ee9TqU7-N-o/hqdefault.jpg" group-title="İçerik",Bir Zamanlar Çukurova
 https://ythls.kekikakademi.org/youtube/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 
@@ -400,3 +388,36 @@ https://ythls.kekikakademi.org/youtube/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 # * » Rahatlatıcı « * #
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+
+#EXTINF:-1 tvg-name="Monday Morning Jazz" tvg-language="English" tvg-country="EN" tvg-id="Rahat_MondayMorningJazz" tvg-logo="https://i.ytimg.com/vi/mC5FTeIAm3Q/hqdefault.jpg" group-title="Rahatlatıcı",Monday Morning Jazz
+https://ythls.kekikakademi.org/youtube/channel/UCyUTC3jCAaLd639lo9n9Bqw.m3u8
+
+#EXTINF:-1 tvg-name="Night Paris Jazz" tvg-language="English" tvg-country="EN" tvg-id="Rahat_NightParisJazz" tvg-logo="https://i.ytimg.com/vi/c3IVTi6TlfE/hqdefault.jpg" group-title="Rahatlatıcı",Night Paris Jazz
+https://ythls.kekikakademi.org/youtube/channel/UC7bX_RrH3zbdp5V4j5umGgw.m3u8
+
+#EXTINF:-1 tvg-name="Warm Relaxing Jazz" tvg-language="English" tvg-country="EN" tvg-id="Rahat_WarmRelaxingJazz" tvg-logo="https://i.ytimg.com/vi/fTb6yJ7AlT8/hqdefault.jpg" group-title="Rahatlatıcı",Warm Relaxing Jazz
+https://ythls.kekikakademi.org/youtube/channel/UC5Sl4VbJELXi9SCaWbTdXfA.m3u8
+
+#EXTINF:-1 tvg-name="Rainy Night Jazz" tvg-language="English" tvg-country="EN" tvg-id="Rahat_RainyNightJazz" tvg-logo="https://i.ytimg.com/vi/uusfypJFBYE/hqdefault.jpg" group-title="Rahatlatıcı",Rainy Night Jazz
+https://ythls.kekikakademi.org/youtube/channel/UCNKkms7V_rQPqeSciCwmC7Q.m3u8
+
+#EXTINF:-1 tvg-name="Work & Jazz" tvg-language="English" tvg-country="EN" tvg-id="Rahat_WorkJazz" tvg-logo="https://i.ytimg.com/vi/c3BWA5FFsX8/hqdefault.jpg" group-title="Rahatlatıcı",Work & Jazz
+https://ythls.kekikakademi.org/youtube/channel/UC7bX_RrH3zbdp5V4j5umGgw.m3u8
+
+#EXTINF:-1 tvg-name="Lakeside Coffee Shop" tvg-language="English" tvg-country="EN" tvg-id="Rahat_LakesideCoffeeShop" tvg-logo="https://i.ytimg.com/vi/CZtJ15s0FI4/hqdefault.jpg" group-title="Rahatlatıcı",LAkeside Coffee Shop
+https://ythls.kekikakademi.org/youtube/channel/UCJ35n3ueAN0cWvQqKptu-Zg/videos.m3u8
+
+#EXTINF:-1 tvg-name="Living Coffee: Smooth Jazz" tvg-language="English" tvg-country="EN" tvg-id="Rahat_LivingCoffeeSmoothJazz" tvg-logo="https://i.ytimg.com/vi/SORD03t7nlo/hqdefault.jpg" group-title="Rahatlatıcı",Living Coffee: Smooth Jazz
+https://ythls.kekikakademi.org/youtube/channel/UCJhjE7wbdYAae1G25m0tHAA.m3u8
+
+#EXTINF:-1 tvg-name="Coffee & Work - Serene Jazz Harmonies" tvg-language="English" tvg-country="EN" tvg-id="Rahat_CoffeeAndWorkSereneJazzHarmonies" tvg-logo="https://i.ytimg.com/vi/35kwlY_RR08/hqdefault.jpg" group-title="Rahatlatıcı",Coffee & Work - Serene Jazz Harmonies
+https://ythls.kekikakademi.org/youtube/channel/UCrovHQd_7-YhEZ83eiz8CLg.m3u8
+
+#EXTINF:-1 tvg-name="Rainy Day Retreat" tvg-language="English" tvg-country="EN" tvg-id="Rahat_RainyDayRetreat" tvg-logo="https://i.ytimg.com/vi/0PVFUL7l53k/hqdefault.jpg" group-title="Rahatlatıcı",Rainy Day Retreat
+https://ythls.kekikakademi.org/youtube/channel/UCEGfXkcen6EsQ2rrAJOvbcw.m3u8
+
+#EXTINF:-1 tvg-name="Cozy Coffee Shop Ambience" tvg-language="English" tvg-country="EN" tvg-id="Rahat_CozyCoffeeShopAmbience" tvg-logo="https://i.ytimg.com/vi/3uVMTZlxHeI/hqdefault.jpg" group-title="Rahatlatıcı",Cozy Coffee Shop Ambience
+https://ythls.kekikakademi.org/youtube/channel/UCJIOFQLGwB3GH9K9waxwynQ.m3u8
+
+#EXTINF:-1 tvg-name="Rainy Day at Cozy Coffee Shop" tvg-language="English" tvg-country="EN" tvg-id="Rahat_RainyDayAtCozyCoffeeShop" tvg-logo="https://i.ytimg.com/vi/XFdTycvQMQo/hqdefault.jpg" group-title="Rahatlatıcı",Rainy Day at Cozy Coffee Shop
+https://ythls.kekikakademi.org/youtube/channel/UCKvKjZ3l9azWz4F49q2R3tQ.m3u8
