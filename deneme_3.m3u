@@ -181,9 +181,6 @@ http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 #EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
 https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon Germany" tvg-language="German" tvg-country="DE" tvg-id="CizgiFilm_NickelodeonGermany" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Nickelodeon Germany
-https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
-
 
 
 # * » Spor « * #
