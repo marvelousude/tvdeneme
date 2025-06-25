@@ -210,6 +210,9 @@ https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/64
 # #EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
+# #EXTINF:-1 tvg-name="beinsports haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_BEINSPORTSHABER" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",beinsports haber
+https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
+
 # * » Müzik « * #
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
