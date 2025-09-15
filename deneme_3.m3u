@@ -273,8 +273,53 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b
 
 
 # * » Deutschland « * #
-#EXTINF:-1 tvg-name="Disney Channel DE" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Deutschland",Disney Channel DE
+#EXTINF:-1 tvg-name="Disney Channel DE" tvg-language="DE" tvg-country="DE" tvg-id="Deutschland_Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Deutschland",Disney Channel DE
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 
+#EXTINF:-1 tvg-name="München TV" tvg-language="DE" tvg-country="DE" tvg-id="Deutschland_MunchenTV" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="Deutschland",München TV
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-language="DE" tvg-country="DE" tvg-id="Deutschland_Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Deutschland",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-language="DE" tvg-country="DE" tvg-id="Deutschland_Parlamentsfernsehen1" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Deutschland",Parlamentsfernsehen 1
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="3sat" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="Deutschland",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_ARD-alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Deutschland",ARD-alpha
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+
+#EXTINF:-1 tvg-name="Das Erste" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_DasErste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" group-title="Deutschland",Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_SRFernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" group-title="Deutschland",SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+
+#EXTINF:-1 tvg-name="Tagesschau24" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_Tagesschau24" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="Deutschland",Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Fernsehen" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_WDRFernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Deutschland",WDR Fernsehen
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_ZDF" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Deutschland",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name="RTL Super" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_RTLSuper" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Deutschland",RTL Super
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+
+#EXTINF:-1 tvg-name="RTL Zwei" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_RTLZwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Deutschland",ZTL Zwei
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+
+#EXTINF:-1 tvg-name="Nitro" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_Nitro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/512px-Nitro_Logo.svg.png" group-title="Deutschland",Nitro
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+
+#EXTINF:-1 tvg-name="n-tv" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_n-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/512px-N-tv_logo-september2017.svg.png" group-title="Deutschland",n-tv
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+
+#EXTINF:-1 tvg-name="RTL" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_RTL" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Deutschland",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+
+#EXTINF:-1 tvg-name="kabel eins DE" tvg-language="German" tvg-country="DE" tvg-id="Deutschland_kabeleinsde" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="Deutschland",kabel eins DE
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
